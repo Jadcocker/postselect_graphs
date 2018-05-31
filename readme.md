@@ -1,9 +1,9 @@
-postselect_graphs
+# postselect_graphs
 
 
 
 
-_files:______________________
+## files:
 
  - graph_data.zip
 	- Contains plain-text and Mathematica representations of all graphs, delineated into entanglement classes for n = 4, 5, 6, 7, 8, 9.
