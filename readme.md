@@ -12,7 +12,10 @@
     - Contains implementation of FindAccessibleClasses and associated functions
 	- To run graph_tools.nb, extract graph_data.zip to the same directory as graph_tools.nb
 	
-
+## Instructions:
 	
-To use graph_tools.nb, run initialization cells, scroll to FindAccesibleClasses -> Execute, select a resource state (and corresponding gate topology generating function, T) and run!
- - For 9 qubit states, initialize qubit resource loading (may take a few seconds)
+ - Run initialization cells
+ - Scroll to FindAccesibleClasses -> Execute
+ - Select a resource state 
+ - Select corresponding gate topology generating function, T 
+ - Run!
