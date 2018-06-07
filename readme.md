@@ -1,7 +1,6 @@
 # postselect_graphs
 
-
-
+ - To start, export graph data into a folder in the same directory as this readme and notebook.
 
 ## files:
 
